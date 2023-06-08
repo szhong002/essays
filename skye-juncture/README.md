@@ -24,11 +24,9 @@ The map is centered on the Chitwan National Park in Nepal, which is the location
 
 An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
 
-.ve-media https://www.loc.gov/item/2021699454/manifest.json
-Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
-    - https://www.loc.gov/item/2021699454/manifest.json
 
-here's an ==abyssinian cat=={Q7955}.
+
+below is an ==abyssinian cat=={Q7955}.
 the following postcard does not show an abyssinian cat
 .ve-media https://www.loc.gov/item/2021699454/manifest.json
 .ve-media https://repository.library.brown.edu/iiif/presentation/bdr:418278/manifest.json
