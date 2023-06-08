@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "COOL STUFF",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://tile.loc.gov/image-services/iiif/service:amed:amedscd:2021699454:0001",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:634.873291015625,826.1112670898438,1260.633544921875,984.2055053710938"
+      },
+      "id": "ab7fba76"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0d893555"
+  }
+]
