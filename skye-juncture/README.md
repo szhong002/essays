@@ -30,4 +30,7 @@ below is an ==abyssinian cat=={Q7955}.
 the following postcard does not show an abyssinian cat
 .ve-media https://www.loc.gov/item/2021699454/manifest.json
 .ve-media https://repository.library.brown.edu/iiif/presentation/bdr:418278/manifest.json
-.ve-map 32.3', 118.46'
+.ve-map 40.7825587,-73.9681637 17
+    - Q160409
+.ve-map 31.8028453,118.2051536 9
+    - Q667821
