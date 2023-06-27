@@ -24,8 +24,16 @@
 # {.show-active}
 
 .ve-map width=50% basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor
--Q39265625 8 marker "Abrosimov Bay"
--Q80413 8 marker "Novaya Zemlya"
+    - Q39265625 8 marker "Abrosimov Bay"
+    - Q80413 8 marker "Novaya Zemlya"
+    - Q23337
+    - Q79842
+    - Q777183
+    - Q220289
+    - Q205325
+    - Q219562
+    - Q223969
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sapien vulputate, iaculis purus quis, commodo mauris. Maecenas id neque purus. Nullam a lacus porttitor, auctor diam nec, luctus sapien. Ut viverra sapien nec mauris luctus, ac molestie ante viverra. Mauris nisi nisl, commodo et condimentum non, eleifend et velit. Maecenas mollis semper massa a gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi pharetra accumsan luctus. Suspendisse vitae iaculis augue. Etiam ultrices massa sit amet augue laoreet, sit amet gravida nisi bibendum. Vivamus nulla eros, ullamcorper eu tellus at, malesuada vehicula tortor. Ut sollicitudin tincidunt dolor eget varius. Mauris commodo, ipsum eget tincidunt accumsan, quam massa porta massa, at mollis risus sem a lectus. Maecenas sapien dui, eleifend sed risus eu, laoreet mattis nisi. Nunc suscipit condimentum arcu, ut venenatis turpis suscipit non.
 
 #### <a id="k27">k 27</a>
