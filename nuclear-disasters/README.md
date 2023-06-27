@@ -23,7 +23,7 @@
 #### <a id="k19">k 19</a>
 # {.show-active}
 
-.ve-map width=50% basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor
+.ve-map basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor sticky right
     - Q39265625 8 marker "Abrosimov Bay"
     - Q80413 8 marker "Novaya Zemlya"
     - Q23337
