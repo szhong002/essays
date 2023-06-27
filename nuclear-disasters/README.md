@@ -1,6 +1,6 @@
 .ve-header "Nuclear Disasters" wc:Chernobyl_2019_G03.jpg
 
-###paragraph on weaponized and industrial disasters
+###intro paragraph on weaponized and industrial disasters
 
 ###infographics with the radiological disasters data
 
