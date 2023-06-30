@@ -26,7 +26,7 @@
     - Q39265625 8 marker "<a id="Abrosimov Bay">Abrosimov Bay</a>"
     - Q80413 8 marker "Novaya Zemlya"
     - Q26676 8 marker "Texas"
-    - Q1356491
+    - Q1356491 8 marker "Tammiku"
     - Q777183
     - Q220289
     - Q205325
