@@ -27,11 +27,13 @@
     - Q80413 8 marker "Novaya Zemlya"
     - Q26676 8 marker "Texas"
     - Q1356491 8 marker "Tammiku"
-    - Q777183
-    - Q220289
-    - Q205325
-    - Q219562
-    - Q223969 
+    - Q16572 8 marker "Guangzhou"
+    - Q3070  8 marker "San Jose"
+    - Q83189 8 marker "Goiania"
+    - Q152225 8 marker "Bikini Islands"
+    - Q1221 8 marker "Idaho"
+    - Q488690 8 marker "Dauphin County, PA"
+    -Q161176 8 marker "Fukushima"
 
     
 #### <a id="k19">k 19</a>
