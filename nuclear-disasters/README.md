@@ -40,7 +40,7 @@
 
 <a href="Abrosimov Bay">Abrosimov Bay</a><br />
 The K19 submarine was the first ballistic-missile equipped nuclear submarine, carrying carried three ballistic missiles with a range of 650km. During its first mission as a US attacker on June 18, 1961, the submarine experienced testing pressure that exceeded its designed pressure, resulting in damaged piping in the primary cooling unit. This led to a drop in pressure, causing the reactor water to boil and the reactor room temperature to reach 140°C, resulting in a fire. With no coolant system in place, the crew had to fix the leak using raincoats and gas masks. They managed to develop an effective cooling system with a drinking water supply, preventing fuel melting and a steam explosion. However, they were exposed to high levels of radiation, approximately 50-60 Sv (5000-6000 rem). Eight crew members who fixed the leak died within days. After replacing the reactor units, the K19 submarine was put back into use, but 22 out of the original crew of 139 died due to radiation exposure. 
-{enter=flyto : Q39265625}
+Fly to ==Abrosimov Bay=={flyto:Q39265625,7}
 
 #### <a id="k27">k 27</a>
 K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors, which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. However, the system had a tendency to leak steam, leading to oxidation of the liquid metal coolant and necessitating regular clean-up. A coolant failure occured, possibly caused by the accumulation of oxide particles, resulting in overheating and the release of radioactive gas into the engine room. This incident led to the deaths of nine individuals and the poisoning of all 144 crew members.
@@ -73,6 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sapien vu
 
 #### <a id="Fukushima Daiichi">Fukushima Daiichi</a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sapien vulputate, iaculis purus quis, commodo mauris. Maecenas id neque purus. Nullam a lacus porttitor, auctor diam nec, luctus sapien. Ut viverra sapien nec mauris luctus, ac molestie ante viverra. Mauris nisi nisl, commodo et condimentum non, eleifend et velit. Maecenas mollis semper massa a gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi pharetra accumsan luctus. Suspendisse vitae iaculis augue. Etiam ultrices massa sit amet augue laoreet, sit amet gravida nisi bibendum. Vivamus nulla eros, ullamcorper eu tellus at, malesuada vehicula tortor. Ut sollicitudin tincidunt dolor eget varius. Mauris commodo, ipsum eget tincidunt accumsan, quam massa porta massa, at mollis risus sem a lectus. Maecenas sapien dui, eleifend sed risus eu, laoreet mattis nisi. Nunc suscipit condimentum arcu, ut venenatis turpis suscipit non.
+
 
 
   
