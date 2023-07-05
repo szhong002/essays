@@ -8,17 +8,17 @@
 
 | Event | Type of Accident | Date | Deaths | 
 | ------------ |:-------------:| -----:|-----:|
-|  <a href="#k19">k 19</a><br />  | Submarine reactor | 07/04/1961 |$1600 |
-|  <a href="#k27">k 27</a><br />  |Submarine reactor | 05/24/1968 |$1600 |
-|  <a href="#Texas radiological assault">Texas radiological assault</a><br />   | Criminal acts       | 1974 |$1600 |
-|  <a href="#Tammiku Stolen Source">Tammiku Stolen Source</a><br />   | Criminal acts      |  10/21/1994 |$1600 |
-|  <a href="#Guangzhou radiological assault">Guangzhou radiological assault</a><br />   | Criminal acts      | 2002  |$1600 |
-|  <a href="#San Jose Radiotherapy incident">San Jose Radiotherapy incident</a><br />  |Radiotherapy incident | $1600 |$1600 |
-|  <a href="#Orphaned source in Goiania Brazil">Orphaned source in Goiania Brazil</a><br />   | Orphaned source dispersal |   $12 |$1600 |
-|  <a href="#Castle Bravo Nuclear testing">Castle Bravo Nuclear testing</a><br />   | Nuclear testing       |   $12 |$1600 |
-|  <a href="#SL-1 Reactor excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       |   $12 |$1600 |
-|  <a href="#3-mile island">3-mile island</a><br />   | Nuclear power plants       |   $12 |$1600 |
-|  <a href="#Fukushima Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       |   $12 |$1600 |
+|  <a href="#k19">k 19</a><br />  | Submarine reactor | 07/04/1961 |22|
+|  <a href="#k27">k 27</a><br />  |Submarine reactor | 05/24/1968 |9|
+|  <a href="#Texas radiological assault">Texas radiological assault</a><br />   | Criminal acts       | 1974 |0 |
+|  <a href="#Tammiku Stolen Source">Tammiku Stolen Source</a><br />   | Criminal acts      |  10/21/1994 |1 dog|
+|  <a href="#Guangzhou radiological assault">Guangzhou radiological assault</a><br />   | Criminal acts      | 2002  |0|
+|  <a href="#San Jose Radiotherapy incident">San Jose Radiotherapy incident</a><br />  |Radiotherapy incident | 08/22/1996 |7-17 |
+|  <a href="#Orphaned source in Goiania Brazil">Orphaned source in Goiania Brazil</a><br />   | Orphaned source dispersal | 09/13/1987 |5|
+|  <a href="#Castle Bravo Nuclear testing">Castle Bravo Nuclear testing</a><br />   | Nuclear testing       |  03/01/1954 |1|
+|  <a href="#SL-1 Reactor excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       | 01/03/1961 |3 |
+|  <a href="#3-mile island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |333 |
+|  <a href="#Fukushima Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|19729|
 
 # {.show-active}
 
@@ -43,14 +43,14 @@ The K19 submarine was the first ballistic-missile equipped nuclear submarine, ca
 {enter=flyto : Q39265625}
 
 #### <a id="k27">k 27</a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sapien vulputate, iaculis purus quis, commodo mauris. Maecenas id neque purus. Nullam a lacus porttitor, auctor diam nec, luctus sapien. Ut viverra sapien nec mauris luctus, ac molestie ante viverra. Mauris nisi nisl, commodo et condimentum non, eleifend et velit. Maecenas mollis semper massa a gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi pharetra accumsan luctus. Suspendisse vitae iaculis augue. Etiam ultrices massa sit amet augue laoreet, sit amet gravida nisi bibendum. Vivamus nulla eros, ullamcorper eu tellus at, malesuada vehicula tortor. Ut sollicitudin tincidunt dolor eget varius. Mauris commodo, ipsum eget tincidunt accumsan, quam massa porta massa, at mollis risus sem a lectus. Maecenas sapien dui, eleifend sed risus eu, laoreet mattis nisi. Nunc suscipit condimentum arcu, ut venenatis turpis suscipit non.
+K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors, which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. However, the system had a tendency to leak steam, leading to oxidation of the liquid metal coolant and necessitating regular clean-up. A coolant failure occured, possibly caused by the accumulation of oxide particles, resulting in overheating and the release of radioactive gas into the engine room. This incident led to the deaths of nine individuals and the poisoning of all 144 crew members.
 
 #### <a id="Texas radiological assault">Texas radiological assault</a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sapien vulputate, iaculis purus quis, commodo mauris. Maecenas id neque purus. Nullam a lacus porttitor, auctor diam nec, luctus sapien. Ut viverra sapien nec mauris luctus, ac molestie ante viverra. Mauris nisi nisl, commodo et condimentum non, eleifend et velit. Maecenas mollis semper massa a gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi pharetra accumsan luctus. Suspendisse vitae iaculis augue. Etiam ultrices massa sit amet augue laoreet, sit amet gravida nisi bibendum. Vivamus nulla eros, ullamcorper eu tellus at, malesuada vehicula tortor. Ut sollicitudin tincidunt dolor eget varius. Mauris commodo, ipsum eget tincidunt accumsan, quam massa porta massa, at mollis risus sem a lectus. Maecenas sapien dui, eleifend sed risus eu, laoreet mattis nisi. Nunc suscipit condimentum arcu, ut venenatis turpis suscipit non.
+A man had deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of Cesium 137 and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by the son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. As a result, the boy had to undergo 16 operations between 1974 and 1978, including numerous skin grafts and castration. 
 {enter=flyto : Q26676}
 
 #### <a id="Tammiku Stolen Source">Tammiku Stolen Source</a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sapien vulputate, iaculis purus quis, commodo mauris. Maecenas id neque purus. Nullam a lacus porttitor, auctor diam nec, luctus sapien. Ut viverra sapien nec mauris luctus, ac molestie ante viverra. Mauris nisi nisl, commodo et condimentum non, eleifend et velit. Maecenas mollis semper massa a gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi pharetra accumsan luctus. Suspendisse vitae iaculis augue. Etiam ultrices massa sit amet augue laoreet, sit amet gravida nisi bibendum. Vivamus nulla eros, ullamcorper eu tellus at, malesuada vehicula tortor. Ut sollicitudin tincidunt dolor eget varius. Mauris commodo, ipsum eget tincidunt accumsan, quam massa porta massa, at mollis risus sem a lectus. Maecenas sapien dui, eleifend sed risus eu, laoreet mattis nisi. Nunc suscipit condimentum arcu, ut venenatis turpis suscipit non.
+Three brothers stole Cesium 137 from a nuclear waste factory. One of the brothers placed the stolen metal block in his jacket pocket. He was hospitalized within 4 days and passed away just two days later, with the cause of death determined to be kidney failure, showing no signs of radiation injury. Unaware of the danger, the victim's stepson placed the metal in a kitchen drawer. After eight days, he too was hospitalized, and radiation burns were detected on his body. The authorities were promptly notified. The man who carried the stolen source home received a dose of 183,000 rads to his thigh and a whole-body dose of 4,000 rads. Other family members also received whole-body doses ranging from 100 to 400 rads. Tragically, even the family dog, which slept near the metal, succumbed to the radiation exposure and died. 
 
 #### <a id="Guangzhou radiological assault">Guangzhou radiological assault</a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac sapien vulputate, iaculis purus quis, commodo mauris. Maecenas id neque purus. Nullam a lacus porttitor, auctor diam nec, luctus sapien. Ut viverra sapien nec mauris luctus, ac molestie ante viverra. Mauris nisi nisl, commodo et condimentum non, eleifend et velit. Maecenas mollis semper massa a gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi pharetra accumsan luctus. Suspendisse vitae iaculis augue. Etiam ultrices massa sit amet augue laoreet, sit amet gravida nisi bibendum. Vivamus nulla eros, ullamcorper eu tellus at, malesuada vehicula tortor. Ut sollicitudin tincidunt dolor eget varius. Mauris commodo, ipsum eget tincidunt accumsan, quam massa porta massa, at mollis risus sem a lectus. Maecenas sapien dui, eleifend sed risus eu, laoreet mattis nisi. Nunc suscipit condimentum arcu, ut venenatis turpis suscipit non.
