@@ -13,19 +13,20 @@
 [radiological disasters from 1896-2020 by countries, causes and deaths](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
+
 | Event | Type of Accident | Date | Deaths | 
 | ------------ |:-------------:| -----:|-----:|
-|  <a href="#k19">k 19</a><br />  | Submarine reactor | 07/04/1961 |22|
-|  <a href="#k27">k 27</a><br />  |Submarine reactor | 05/24/1968 |9|
-|  <a href="#Texas-radiological-assault">Texas radiological assault</a><br />   | Criminal acts       | 1974 |0 |
-|  <a href="#Tammiku-Stolen-Source">Tammiku Stolen Source</a><br />   | Criminal acts      |  10/21/1994 |1 dog|
-|  <a href="#Guangzhou-radiological-assault">Guangzhou radiological assault</a><br />   | Criminal acts      | 2002  |0|
-|  <a href="#San-Jose-Radiotherapy-incident">San Jose Radiotherapy incident</a><br />  |Radiotherapy incident | 08/22/1996 |7-17 |
-|  <a href="#Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a><br />   | Orphaned source dispersal | 09/13/1987 |5|
-|  <a href="#Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear testing</a><br />   | Nuclear testing       |  03/01/1954 |1|
-|  <a href="#SL-1-Reactor-excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       | 01/03/1961 |3 |
-|  <a href="#3-mile-island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |333 |
-|  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|19729|
+|  <a href="#k19">k 19</a><br />  | Submarine reactor | 07/04/1961 |==22=={description="over a span of two years"}|
+|  <a href="#k27">k 27</a><br />  |Submarine reactor | 05/24/1968 |==9=={description="all 144 of the crew poisoned and injured"}|
+|  <a href="#Texas-radiological-assault">Texas radiological assault</a><br />   | Criminal acts       | 1974 |==0=={description="target of assault injured"}|
+|  <a href="#Tammiku-Stolen-Source">Tammiku Stolen Source</a><br />   | Criminal acts      |  10/21/1994 |==1=={description="4 injuries, 1 family dog died"}|
+|  <a href="#Guangzhou-radiological-assault">Guangzhou radiological assault</a><br />   | Criminal acts      | 2002  |==0=={description="target of assault injured"}|
+|  <a href="#San-Jose-Radiotherapy-incident">San Jose Radiotherapy incident</a><br />  |Radiotherapy incident | 08/22/1996 |==7-17=={description="debates on whether the deaths were caused by the radiotherapy exposure or the illness itself, 71 injured"} |
+|  <a href="#Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a><br />   | Orphaned source dispersal | 09/13/1987 |==5=={description="20 injuries"}|
+|  <a href="#Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear testing</a><br />   | Nuclear testing       |  03/01/1954 |==1=={description="93+ injuries"}|
+|  <a href="#SL-1-Reactor-excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       | 01/03/1961 |==3=={description="22 injuries"}|
+|  <a href="#3-mile-island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |==0=={description=""}|
+|  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011||
 
 # {.show-active}
 
