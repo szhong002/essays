@@ -20,7 +20,7 @@
 |  <a href="#Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear testing</a><br />   | Nuclear testing       |  03/01/1954 |==1=={description="93+ injuries"}|
 |  <a href="#SL-1-Reactor-excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       | 01/03/1961 |==3=={description="22 injuries"}|
 |  <a href="#3-mile-island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |==0=={description=""}|
-|  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|==1=={description=""}|
+|  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|==1=={description="1 confirmed cancer death attributed to radiation, "}|
 
 # {.show-active}
 
