@@ -5,8 +5,8 @@
 ###infographics with the radiological disasters data
 <iframe id="radiological disasters"
     title="radiological disasters"
-    width="300"
-    height="200"
+    width="1200"
+    height="1000"
     src="https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link">
 </iframe>
 
