@@ -3,7 +3,7 @@
 ###intro paragraph on weaponized and industrial disasters
 
 ###infographics with the radiological disasters data
-
+.ve-media radiationaccident.jpg
 ###table of a few selected disasters highlighting the human factors
 
 | Event | Type of Accident | Date | Deaths | 
