@@ -22,7 +22,7 @@
 |  <a href="#3-mile-island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |==0=={description=""}|
 |  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|==1=={description="1 confirmed cancer death attributed to radiation, "}|
 
-# {.show-active}
+## {.show-active}
 
 .ve-map basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor sticky right
     - Q39265625 8 marker "<a id="Abrosimov Bay">Abrosimov Bay</a>"
