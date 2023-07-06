@@ -3,7 +3,7 @@
 ###intro paragraph on weaponized and industrial disasters
 
 ###infographics with the radiological disasters data
-.ve-media "radiological disasters" wc: 
+.ve-media "radiological disasters" wc: radiationaccident.jpg
 <iframe id="radiological disasters"
     title="radiological disasters"
     width="1200"
