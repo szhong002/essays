@@ -3,7 +3,13 @@
 ###intro paragraph on weaponized and industrial disasters
 
 ###infographics with the radiological disasters data
-.ve-iframe https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+<iframe id="radiological disasters"
+    title="radiological disasters"
+    width="300"
+    height="200"
+    src="https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link">
+</iframe>
+
 
 | Event | Type of Accident | Date | Deaths | 
 | ------------ |:-------------:| -----:|-----:|
