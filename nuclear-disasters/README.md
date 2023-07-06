@@ -16,7 +16,7 @@
 | ------------ |:-------------:| -----:|-----:|
 |  <a href="#k19">k 19</a><br />  | Submarine reactor | 07/04/1961 |22|
 |  <a href="#k27">k 27</a><br />  |Submarine reactor | 05/24/1968 |9|
-|  <a href="#Texas radiological assault">Texas radiological assault</a><br />   | Criminal acts       | 1974 |0 |
+|  <a href="#Texas_radiological_assault">Texas radiological assault</a><br />   | Criminal acts       | 1974 |0 |
 |  <a href="#Tammiku Stolen Source">Tammiku Stolen Source</a><br />   | Criminal acts      |  10/21/1994 |1 dog|
 |  <a href="#Guangzhou radiological assault">Guangzhou radiological assault</a><br />   | Criminal acts      | 2002  |0|
 |  <a href="#San Jose Radiotherapy incident">San Jose Radiotherapy incident</a><br />  |Radiotherapy incident | 08/22/1996 |7-17 |
@@ -49,7 +49,7 @@ The K19 submarine was the first ballistic-missile equipped nuclear submarine, ca
 #### <a id="k27">k 27</a>
 K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors, which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. However, the system had a tendency to leak steam, leading to oxidation of the liquid metal coolant and necessitating regular clean-up. A coolant failure occured, possibly caused by the accumulation of oxide particles, resulting in overheating and the release of radioactive gas into the engine room. The submarine resurfaced at ==Novaya Zemlya=={flyto:Q80413,7}This incident led to the deaths of nine individuals and the poisoning of all 144 crew members.
 
-#### <a id="Texas radiological assault">Texas radiological assault</a>
+#### <a id="Texas_radiological_assault">Texas radiological assault</a>
 A man from ==Harris County, Texas=={flyto:Q26676,7}had deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster."} and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by the son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. As a result, the boy had to undergo 16 operations between 1974 and 1978, including numerous skin grafts and castration. 
 
 #### <a id="Tammiku Stolen Source">Tammiku Stolen Source</a>
