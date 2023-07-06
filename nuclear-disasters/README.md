@@ -3,15 +3,9 @@
 ###intro paragraph on weaponized and industrial disasters
 
 ###infographics with the radiological disasters data
-.ve-media "radiological disasters" wc:radiationaccident.jpg
-<iframe id="radiological disasters"
-    title="radiological disasters"
-    width="1200"
-    height="1000"
-    src="https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link">
-</iframe>
-[radiological disasters from 1896-2020 by countries, causes and deaths](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+
+[radiological disasters from 1896-2020 by countries, causes and deaths](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 | Event | Type of Accident | Date | Deaths | 
