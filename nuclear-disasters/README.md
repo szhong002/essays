@@ -101,4 +101,4 @@ The partial meltdown and minor off-site releases of radioactivity were caused by
 [^16]:  [https://www.atomicarchive.com/history/hydrogen-bomb/page-17.html](https://www.atomicarchive.com/history/hydrogen-bomb/page-17.html)
 [^17]:  [http://www.johnstonsarchive.net/nuclear/radevents/1961USA1.html](http://www.johnstonsarchive.net/nuclear/radevents/1961USA1.html)
 [^18]:  [https://ahf.nuclearmuseum.org/ahf/location/idaho-falls/](https://ahf.nuclearmuseum.org/ahf/location/idaho-falls/)
-
+[^19]:  [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
