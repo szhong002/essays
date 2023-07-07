@@ -18,7 +18,7 @@
 |  <a href="#San-Jose-Radiotherapy-incident">San Jose Radiotherapy incident</a><br />  |Radiotherapy incident | 08/22/1996 |==7-17=={description="debates on whether the deaths were caused by the radiotherapy exposure or the illness itself, 71 injured"} |
 |  <a href="#Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a><br />   | Orphaned source dispersal | 09/13/1987 |==5=={description="20 injuries"}[^12]|
 |  <a href="#Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear testing</a><br />   | Nuclear testing       |  03/01/1954 |==1=={description="93+ injuries"}[^14]|
-|  <a href="#SL-1-Reactor-excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       | 01/03/1961 |==3=={description="22 injuries"}|
+|  <a href="#SL-1-Reactor-excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       | 01/03/1961 |==3=={description="22 injuries"}[^18]|
 |  <a href="#3-mile-island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |==0=={description=""}|
 |  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|==1=={description="1 confirmed cancer death attributed to radiation, "}|
 
@@ -65,7 +65,7 @@ During the Castle Bravo nuclear testing in 1954 as part of the United States' Op
 
 #### <a id="SL-1-Reactor-excursion">SL-1 Reactor excursion</a>
 The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations.The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on Jan 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
-High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3 to 27 rads.
+High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3 to 27 rads.[^17]
 
 ## powerplant failures: consequences and responses 
 #### <a id="3-mile-island">3-mile island</a>
@@ -78,6 +78,7 @@ The partial meltdown and minor off-site releases of radioactivity were caused by
 - Personale Error:  Plant operators’ was misled by the instruments in the control room which indicated that the valve was closed and failed to identify the valve was actually stuck open. 
 - Regulatory Laxity: The closure of valves for routine maintenance was a violation of a key NRC rule. Once the secondary feedwater pumps stopped, three auxiliary pumps activated automatically but the valves had been closed for routine maintenace, the system was then unable to pump any extra water in this accident.
 - operational issue: Reactor No. 2 had been rushed into service on the last day of 1978 since the utility company would have lost a $40 million federal tax break if waited one day more.
+
 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
 
@@ -98,4 +99,6 @@ The partial meltdown and minor off-site releases of radioactivity were caused by
 [^14]:  [http://www.johnstonsarchive.net/nuclear/radevents/1954USA1.html](http://www.johnstonsarchive.net/nuclear/radevents/1954USA1.html)
 [^15]:  [https://ahf.nuclearmuseum.org/ahf/history/castle-bravo/](https://ahf.nuclearmuseum.org/ahf/history/castle-bravo/)
 [^16]:  [https://www.atomicarchive.com/history/hydrogen-bomb/page-17.html](https://www.atomicarchive.com/history/hydrogen-bomb/page-17.html)
+[^17]:  [http://www.johnstonsarchive.net/nuclear/radevents/1961USA1.html](http://www.johnstonsarchive.net/nuclear/radevents/1961USA1.html)
+[^18]:  [https://ahf.nuclearmuseum.org/ahf/location/idaho-falls/](https://ahf.nuclearmuseum.org/ahf/location/idaho-falls/)
 
