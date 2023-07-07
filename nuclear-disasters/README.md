@@ -129,12 +129,23 @@ The NRC was strengthened and the industry established the Institute of Nuclear P
 Training reforms are among the most significant outcomes of the TMI-2 accident. Training became centred on protecting a plant's cooling capacity, whatever the triggering problem might be. Events of TMI led to the establishment of the Atlanta-based Institute of Nuclear Power Operations (INPO) and its National Academy for Nuclear Training. Close to half of the operators' training was in a full-scale electronic simulator of the TMI control room. The $18 million simulator permitted operators to learn and be tested on all kinds of accident scenarios.
 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
+##### Overview
 
 On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the Fukushima Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.
 
 The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident.
 
-The tsunami countermeasures taken when Fukushima Daiichi was designed and sited in the 1960s were considered acceptable in relation to the scientific knowledge then, with low recorded run-up heights for that particular coastline. But some 18 years before the 2011 disaster, new scientific knowledge had emerged about the likelihood of a large earthquake and resulting major tsunami of some 15.7 metres at the Daiichi site. However, this had not yet led to any major action by either the plant operator, Tepco, or government regulators, notably the Nuclear & Industrial Safety Agency.
+##### Could it Have Been Prevented?
+
+Unlike Chernobyl and TMI, it has often been argued that the unfortunate placement of the Fukushima Daiichi nuclear power plant saw tsunamis at a scale that was unforseen and therefore could not be prevented. 
+
+The tsunami countermeasures taken when Fukushima Daiichi was designed and sited in the 1960s were considered acceptable in relation to the scientific knowledge then, with low recorded run-up heights for that particular coastline. But 18 years before the 2011 disaster, new scientific knowledge had emerged about the likelihood of a large earthquake and resulting major tsunami of some 15.7 metres at the Daiichi site. This, however, did not lead to any major action by either the plant operator, Tepco, or government regulators, notably the Nuclear & Industrial Safety Agency.
+
+The methods used by TEPCO and NISA to assess the risk from tsunamis lagged behind international standards
+- Historical Evidence of Disasters: TEPCO and NISA did not give sufficient attention to historical evidence of large earthquakes and tsunamis in the region surrounding the plant. 
+- Tsunami Modeling Procedures: There appears to have been deficiencies in the tsunami modeling procedures used by TEPCO. Most importantly, TEPCO did not follow up with sufficient alacrity on preliminary 2008 simulations that suggested the tsunami risk to the plant had been seriously underestimated.
+- NISA Inattentiveness:   NISA failed to review simulations conducted by TEPCO and to foster the development of appropriate computer modeling tools. 
+
 
 [^1]:  [http://large.stanford.edu/courses/2017/ph241/lowet2/](http://large.stanford.edu/courses/2017/ph241/lowet2/)
 [^2]:  [http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
