@@ -145,13 +145,19 @@ The methods used by TEPCO and NISA to assess the risk from tsunamis lagged behin
 - Historical Evidence of Disasters: TEPCO and NISA did not give sufficient attention to historical evidence of large earthquakes and tsunamis in the region surrounding the plant. 
 - Tsunami Modeling Procedures: There appears to have been deficiencies in the tsunami modeling procedures used by TEPCO. Most importantly, TEPCO did not follow up with sufficient alacrity on preliminary 2008 simulations that suggested the tsunami risk to the plant had been seriously underestimated.
 - NISA Inattentiveness:   NISA failed to review simulations conducted by TEPCO and to foster the development of appropriate computer modeling tools. 
+##### Fukushima Now: Water Discharge
+
+Japan announced in April 2021 that it planned to discharge more than 1.25 million cubic metres of treated water stored at the station by discharging it into the sea. The plan was approved by the nuclear regulator in early 2022. The water stored at the tanks at the Fukushima-Daiichi site is treated through a process known as advanced liquid processing system (Alps) to remove most of the radioactivity. Tritium, which cannot be removed by Alps, and some very low levels of other radionuclides, remain in the water after processing.
+
+The water was largely used to cool the three damaged reactor cores, which remain highly radioactive. Some of it has since leaked into basements of the reactor buildings but was collected and stored in tanks. Space for the tanks is running out and the long-term management of the treated water is necessary to allow for the further decommissioning of Fukushima-Daiichi, which has been permanently shut down.
+
+IAEA director has announced that his agency’s “comprehensive, neutral, objective and scientifically sound” evaluation showed that the planned discharge was consistent with global industry and safety standards while its report was “neither a recommendation nor an endorsement” of Japan’s water discharge decision.
 
 
- 
 
-[^1]:  [http://large.stanford.edu/courses/2017/ph241/lowet2/](http://large.stanford.edu/courses/2017/ph241/lowet2/)
-[^2]:  [http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
-[^3]:  [http://www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html](http://www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html)
+[^1]:  [Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” K-19 Submarine Reactor Accident, 1961, 10 May 2005, www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://large.stanford.edu/courses/2017/ph241/lowet2/)
+[^2]:  [Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” K-19 Submarine Reactor Accident, 1961, 10 May 2005, www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
+[^3]:  [Johnston, Wm. Robert. “K-27 Submarine Reactor Accident, 1968.” K-27 Submarine Reactor Accident, 1968, 20 Sept. 2007, www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html)
 [^4]:  [https://www.bbc.com/news/world-europe-21148434](https://www.bbc.com/news/world-europe-21148434)
 [^5]:  [http://large.stanford.edu/courses/2012/ph241/wessells1/#:~:text=During%20the%20Chernobyl%20explosion%2C%20about,were%20expelled%20into%20the%20atmosphere.](http://large.stanford.edu/courses/2012/ph241/wessells1/#:~:text=During%20the%20Chernobyl%20explosion%2C%20about,were%20expelled%20into%20the%20atmosphere.)
 [^6]:  [http://www.johnstonsarchive.net/nuclear/radevents/1972USA1.html](http://www.johnstonsarchive.net/nuclear/radevents/1972USA1.html)
