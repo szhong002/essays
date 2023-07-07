@@ -94,6 +94,7 @@ High radiation levels delayed emergency responders’ entry into the reactor bui
 ## powerplant failures: consequences and responses 
 #### <a id="3-mile-island">3-mile island</a>
 ##### Overview 
+
 On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near Middletown, Pennsylvania, experienced a partial meltdown. This incident is widely considered as the most significant accident in the history of commercial nuclear power plants in the United States despite its limited radioactive releases. It initiated significant changes made in aspects of nuclear power plant operations and regulations, including emergency response planning, reactor operator training, human factors engineering, and radiation protection. 
 ##### Events in Sequence
 
@@ -117,7 +118,15 @@ In spite of serious damage to the plant, most of the radiation was contained and
 
 No acute radiation injuries occurred, and the evidence indicates no chronic radiation injuries resulted. No individual chronic injuries can be attributed to the TMI accident; even claims of statistically observable changes in possible chronic effects (such as cancer) are not consistent with the evidence. Maximum possible dose to any individuals near the plant was about 0.02 to 0.07 rem in the case of a few hundred individuals, which is well below natural background radiation levels. No consistent evidence that radioactivity released during the nuclear accident has had a significant impact on the overall mortality.
 
-The TMI accident resulted in significant property damage for the plant operator, but no injuries resulted.
+The TMI accident resulted in significant property damage for the plant operator, but no injuries resulted. The main impact of the Three Mile Island accident has been psychological rather than physical.
+
+##### Impact on Nuclear Industry
+
+Despite the incident at TMI being a significant cause for the American public's distrust in nuclear industries in the decades to follow, it led to widespread changes across the U.S. commercial nuclear industry that improved regulations and practices. 
+
+The NRC was strengthened and the industry established the Institute of Nuclear Power Operations (INPO) to ensure appropriate training, plant management and operations. It expanded its resident inspector program in which two NRC inspectors live near each of the plants and provide oversight of adherence to the agencies’ regulations. It also expanded both safety and performance-oriented inspections and established an operations center staffed 24 hours a day to provide assistance in plant emergencies. 
+
+Training reforms are among the most significant outcomes of the TMI-2 accident. Training became centred on protecting a plant's cooling capacity, whatever the triggering problem might be. Events of TMI led to the establishment of the Atlanta-based Institute of Nuclear Power Operations (INPO) and its National Academy for Nuclear Training. Close to half of the operators' training was in a full-scale electronic simulator of the TMI control room. The $18 million simulator permitted operators to learn and be tested on all kinds of accident scenarios.
 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
 
