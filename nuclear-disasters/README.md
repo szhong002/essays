@@ -69,6 +69,7 @@ A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used Iridium
 The primary victim was exposed to a dose ranging from 70 to 150 rads, while an additional 78 hospital staff members were also injured.[^10]  
 
 #### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy incident</a>
+
 The ==San Jose=={flyto:Q3070,7}  Radiotherapy incident in 1996 involved a significant error in a Cobalt 60 radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^11]   
 
 #### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a>
