@@ -79,9 +79,11 @@ The partial meltdown and minor off-site releases of radioactivity were caused by
 - Regulatory Laxity: The closure of valves for routine maintenance was a violation of a key NRC rule. Once the secondary feedwater pumps stopped, three auxiliary pumps activated automatically but the valves had been closed for routine maintenace, the system was then unable to pump any extra water in this accident.
 - operational issue: Reactor No. 2 had been rushed into service on the last day of 1978 since the utility company would have lost a $40 million federal tax break if waited one day more.
 
+In spite of serious damage to the plant, most of the radiation was contained and the actual release will have a negligible effect on the physical health of individuals.
+
 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
-
+On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the Fukushima Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. 
 
 [^1]:  [http://large.stanford.edu/courses/2017/ph241/lowet2/](http://large.stanford.edu/courses/2017/ph241/lowet2/)
 [^2]:  [http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
