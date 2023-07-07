@@ -146,6 +146,8 @@ The methods used by TEPCO and NISA to assess the risk from tsunamis lagged behin
 - Tsunami Modeling Procedures: There appears to have been deficiencies in the tsunami modeling procedures used by TEPCO. Most importantly, TEPCO did not follow up with sufficient alacrity on preliminary 2008 simulations that suggested the tsunami risk to the plant had been seriously underestimated.
 - NISA Inattentiveness:   NISA failed to review simulations conducted by TEPCO and to foster the development of appropriate computer modeling tools. 
 
+.ve-media https://world-nuclear.org/getmedia/b378c6f5-1b4c-453b-9277-07e5946d132b/fukushima-radioactivity-2011-2016.png.aspx right
+ 
 
 [^1]:  [http://large.stanford.edu/courses/2017/ph241/lowet2/](http://large.stanford.edu/courses/2017/ph241/lowet2/)
 [^2]:  [http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
