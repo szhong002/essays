@@ -103,12 +103,14 @@ Under normal circumstances, the pressure vessel containing the reactor core in t
 
 Unaware of the relief valve being stuck open and unable to confirm the water coverage of the core, the staff made a series of decisions that exposed the core. The malfunctioning valve caused a significant decrease in the pressure of the primary system, resulting in the reactor coolant pumps vibrating and being shut off. To avoid an undesirable situation where the pressurizer would be completely filled with emergency cooling water, the flow of water was reduced. Without the circulation of water by the reactor coolant pumps and with a scarcity of emergency cooling water in the primary system, the water level in the pressure vessel declined, leading to overheating of the core.
 ##### What Went Wrong?
+
 The partial meltdown and minor off-site releases of radioactivity were caused by a combination of equipment malfunctions, personale errors, regulatory laxities, and operational issues.
 - Equipment malfunction: The pilot-operated relief valve stuck open when it should have closed when the pressure fell to proper levels.
 - Personale Error:  Plant operators’ was misled by the instruments in the control room which indicated that the valve was closed and failed to identify the valve was actually stuck open. 
 - Regulatory Laxity: The closure of valves for routine maintenance was a violation of a key NRC rule. Once the secondary feedwater pumps stopped, three auxiliary pumps activated automatically but the valves had been closed for routine maintenace, the system was then unable to pump any extra water in this accident.
 - operational issue: Reactor No. 2 had been rushed into service on the last day of 1978 since the utility company would have lost a $40 million federal tax break if waited one day more.
 ##### Aftermath
+
 In spite of serious damage to the plant, most of the radiation was contained and the actual release have a negligible effect on the physical health of individuals.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=15VoPoQNfyxPhOWLvjBmyrJ8yyp-nwxqs7UfxL9UkgD4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> [^19]
