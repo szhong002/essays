@@ -41,7 +41,8 @@
 
 The K19 submarine was the first ballistic-missile equipped nuclear submarine, carrying carried three ballistic missiles with a range of 650km. During its first mission as a US attacker on June 18, 1961, the submarine experienced testing pressure that exceeded its designed pressure at ==Abrosimov Bay=={flyto:Q39265625,7}, resulting in damaged piping in the primary cooling unit. This led to a drop in pressure, causing the reactor water to boil and the reactor room temperature to reach 140°C, resulting in a fire. 
 
-With no coolant system in place, the crew had to fix the leak using raincoats and gas masks. They managed to develop an effective cooling system with a drinking water supply, preventing fuel melting and a steam explosion. However, they were exposed to high levels of radiation, approximately ==50-60 Sv (5000-6000 rem)=={description="According to the International Commission on Radiological Protection, 1 Sv results in a 5.5% probability of eventually developing fatal cancer based on disputed linear no-threshold model of ionizing radiation exposure"}. Eight crew members who fixed the leak died within days. After replacing the reactor units, the K19 submarine was put back into use, but 22 out of the original crew of 139 died due to radiation exposure. [^2] 
+With no coolant system in place, the crew had to fix the leak using raincoats and gas masks. They managed to develop an effective cooling system with a drinking water supply, preventing fuel melting and a steam explosion. However, they were exposed to high levels of radiation, approximately ==50-60 Sv=={description="According to the International Commission on Radiological Protection, 1 Sv results in a 5.5% probability of eventually developing fatal cancer based on disputed linear no-threshold model of ionizing radiation exposure"} (5000-6000 rem). Eight crew members who fixed the leak died within days. After replacing the reactor units, the K19 submarine was put back into use, but 22 out of the original crew of 139 died due to radiation exposure. [^2] 
+.ve-media wc: K-19.jpg caption = "Problem-plagued K-19, disabled in the North Atlantic on 29 February 1972. Picture taken on board of the US Navy plane."
 
 
 #### <a id="k27">k 27</a>
@@ -153,6 +154,43 @@ The water was largely used to cool the three damaged reactor cores, which remain
 
 IAEA director has announced that his agency’s “comprehensive, neutral, objective and scientifically sound” evaluation showed that the planned discharge was consistent with global industry and safety standards while its report was “neither a recommendation nor an endorsement” of Japan’s water discharge decision.
 
+### Places {.cards}
+
+#### <a id="Sv">Sv</a> {href=#}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_-_lavatory_tower03b.jpg)
+
+According to the International Commission on Radiological Protection, 1 Sv results in a 5.5% probability of eventually developing fatal cancer based on disputed linear no-threshold model of ionizing radiation exposure
+
+#### St Augustine's Abbey {href=#}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Augustine_Abbey.jpg)
+
+St Augustine's Abbey was a Benedictine monastery in Canterbury. The abbey was founded in 598.
+
+#### Canterbury High Street {href=#}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:High_Street%2C_Canterbury%2C_Kent.jpg)
+
+The first Archbishop of Canterbury, Augustine, arrived in Kent as a missionary in 597AD. 
+
+#### Canterbury Cathedral {href=#}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Canterbury_cathedral_20160901.jpg)
+
+Founded in 597, the cathedral is the oldest Christian structure in England.
+
+#### Dane John Gardens {href=#}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_gardens_-_geograph.org.uk_-_746465.jpg)
+
+The Dane John Gardens were created on common land by Alderman James Simmons in 1790.
+
+#### Dane John Mound {href=#}
+
+![](https://iiif.juncture-digital.org/thumbnail/wc:Dane_John_mound_-_geograph.org.uk_-_2277327.jpg)
+
+The Dane John Mound is a Roman cemetery in Canterbury.
 
 
 [^1]:  [Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” K-19 Submarine Reactor Accident, 1961, 10 May 2005, www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://large.stanford.edu/courses/2017/ph241/lowet2/)
